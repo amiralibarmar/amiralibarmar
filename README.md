@@ -43,10 +43,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amiralibarmar&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=10"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=amiralibarmar&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
