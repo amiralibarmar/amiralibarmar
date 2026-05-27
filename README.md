@@ -14,7 +14,6 @@
 - 🐍 Learning and building with **Python** for automation and scripting
 - 📍 Based in **Dubai, UAE**
 - 📫 Reach me at: **barmar.amirali@gmail.com**
-- 🌐 Portfolio: **[amiralibarmar.github.io/portfolio](https://amiralibarmar.github.io/portfolio)**
 
 ---
 
@@ -44,8 +43,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amiralibarmar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralibarmar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amiralibarmar&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=10"/>
 </p>
 
 <p align="center">
@@ -62,8 +60,5 @@
   </a>
   <a href="https://github.com/amiralibarmar">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://amiralibarmar.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
