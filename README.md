@@ -14,6 +14,7 @@
 - 🐍 Learning and building with **Python** for automation and scripting
 - 📍 Based in **Dubai, UAE**
 - 📫 Reach me at: **barmar.amirali@gmail.com**
+- 🌐 Portfolio: **[amiralibarmar.github.io/portfolio](https://amiralibarmar.github.io/portfolio)**
 
 ---
 
@@ -61,5 +62,8 @@
   </a>
   <a href="https://github.com/amiralibarmar">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://amiralibarmar.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
